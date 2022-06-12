@@ -725,13 +725,15 @@ padding:10px 0;
 }
 .social-icon i{
 	
-	/* background: url("../images/img-sprite.png") no-repeat 0px 0px; */
 	display:inline-block;	
 	color:white;
 	font-size: 30px;
 	
 }
-
+.social-icon a{
+	
+	padding-right: 20px;
+}
 
 .contact {
 	padding-bottom:4em;
@@ -1466,63 +1468,21 @@ padding-bottom: 2em;
 			padding: 15px 0px;
 		}
 		.social-icon {
-			padding: 10px 0;
-		}
-		.social-icon i {
-			width: 30px;
-			height: 30px;
-			background: url("../images/img-sprite.png") no-repeat 0px 0px;
-			display: inline-block;
-			background-size: 420px;
-		}
-		.social-icon a i.icon1 {
-		background-position: -3px -3px;
-		}
-		.social-icon a i.icon1:hover {
-			background-position: -3px -33px;
-		}
-		.social-icon a i.icon2 {
-			background-position: -36px -3px;
-		}
-		.social-icon a i.icon2:hover {
-			background-position: -36px -34px;
-		}
-		.social-icon a i.icon3 {
-			background-position: -70px -3px;
-		}
-		.social-icon a i.icon3:hover {
-			background-position: -70px -34px;
-		}
-		.social-icon i.icon4 {
-			background-position: -103px -3px;
-		}
-		.social-icon a i.icon4:hover {
-			background-position: -103px -34px;;
-		}
-		.social-icon i.icon5 {
-			background-position: -137px -3px;
-		}
-		.social-icon a i.icon5:hover {
-			background-position: -137px -34px;
-		}
-		.social-icon i.icon6 {
-			background-position: -170px -3px;
-		}
-		.social-icon a i.icon6:hover {
-			background-position: -170px -34px;
-		}
-		.social-icon i.icon7 {
-			background-position: -204px -3px;
-		}
-		.social-icon a i.icon7:hover {
-			background-position: -204px -34px;
-		}
-		.social-icon i.icon8 {
-			background-position: -237px -3px;
-		}
-		.social-icon a i.icon8:hover {
-			background-position: -237px -34px;
-		}
+			text-align: center;
+			padding:10px 0;
+			}
+			.social-icon i{
+				
+				display:inline-block;	
+				color:white;
+				font-size: 30px;
+				
+			}
+			.social-icon a{
+				
+				padding-right: 20px;
+			}
+		
 			.footer-bottom p {
 			font-size: 13px;
 		}
@@ -1533,4 +1493,9 @@ padding-bottom: 2em;
 		.grid_box a:hover .zoom-icon {
 			top: 7px;
 		}
+		}
+
+		.services-sectiongrids i{
+			font-size: 115px;
+			color:#ef664d;
 		}
