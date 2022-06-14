@@ -1,1 +1,16 @@
-Para ver mi portfolio: https://bealazo.github.io/portfolio/
+
+# Portfolio
+
+Página web para mostrar mi portfolio.
+
+## Demo
+
+Para acceder a mi portfolio: https://bealazo.github.io/portfolio/
+
+## Tech Stack
+
+**Client:** Html, Css, Javascript
+
+## Authors
+
+- [@bealazo](https://github.com/bealazo)
