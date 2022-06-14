@@ -1499,3 +1499,18 @@ padding-bottom: 2em;
 			font-size: 115px;
 			color:#ef664d;
 		}
+
+		.cv_button{
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: center;
+			
+			padding: 50px;
+		}
+		.cv_link{
+			padding:15px;
+			border: solid 1px #ef664d;
+			font-weight: bold;
+			font-size: large;
+		}
