@@ -9,7 +9,7 @@ Para acceder a mi portfolio: https://bealazo.github.io/portfolio/
 
 ## Tech Stack
 
-**Client:** Html, Css, Javascript
+**Client:** Html, Css, Javascript, Bootstrap
 
 ## Authors
 
